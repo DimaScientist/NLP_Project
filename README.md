@@ -1,2 +1,7 @@
 # NLP_Project
-Predict which Tweets are about real disasters and which ones are not
+
+It is study project for getting started in natural language processing (NLP).
+
+Data [Natural Language Processing with Disaster Tweets][1].
+
+[1] https://www.kaggle.com/c/nlp-getting-started      "Natural Language Processing with Disaster Tweets"
