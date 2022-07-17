@@ -1,7 +1,3 @@
-# NLP_Project
+# NLP competitions:
 
-It is study project for getting started in natural language processing (NLP).
-
-Data [Natural Language Processing with Disaster Tweets][1].
-
-[1]: https://www.kaggle.com/c/nlp-getting-started      "Natural Language Processing with Disaster Tweets"
+* [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/competitions/word2vec-nlp-tutorial) - [solution](https://github.com/DimaScientist/NLP_Project/tree/main/word2vec-nlp-tutorial)
